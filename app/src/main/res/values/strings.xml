@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">InStory</string>
+    <string name="login">Login</string>
+    <string name="call_to_action_register">Belum Punya Akun? Silahkan Register</string>
+    <string name="logo">logo</string>
+    <string name="login_desc">Silahkan login untuk masuk</string>
+    <string name="login_2">LOGIN</string>
+    <string name="login_cta">Belum punya akun? Silahkan register</string>
+    <string name="register">REGISTER</string>
+    <string name="register_desc">Silahkan buat akun untuk login</string>
+    <string name="reg_cta">Sudah memiliki akun? klik disini</string>
+    <string name="coba_lagi">Coba lagi</string>
+    <string name="location">Location</string>
+    <string name="add_story">Add Story</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="title">Title</string>
+    <string name="image_detail">Image Detail</string>
+    <string name="galeri">Galeri</string>
+    <string name="kamera">Kamera</string>
+    <string name="add_story_button">Tambahkan Story</string>
+    <string name="desc_story_et">Masukkan Deskripsi Story</string>
+</resources>
